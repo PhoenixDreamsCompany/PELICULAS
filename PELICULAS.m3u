@@ -1,6 +1,18 @@
 #EXTM3U
 
 
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9695/nadie-cartel-9712.jpg", Nadie | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61sznT-4n3L._AC_SX466_.jpg", LUCA | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Paternidad-729485901-large.jpg", Paternidad | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Fatherhood.%282021%29.1080P-Dual-SrRegio.Net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://benditospoiler.com/wp-content/uploads/2021/04/poster-691x1024.png", El Conjuro 3 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/el%20conjuro%203%201080p-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35838-292439-20210126075948.jpg", Juega Conmigo | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Juega.Conmigo.%282021%29.1080P-Dual-Lat-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/Disomnia.jpg?fit=405%2C600&ssl=1", Disomnia | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Disomnia.%282021%29.1080P-Dual-Lat-srregio.net.mkv
 
 #EXTINF:0 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/g/godzilla-v/godzilla-vs-king-kong_qw9s.jpg", Godzilla vs Kong 2021 | PhoenixDreamsTV
 http://ipeteve.com/REGIOFLIX100321/g0dz1ll4.vs.k0ng.2021.hdrip.720p.latinoSrRegio.mp4
