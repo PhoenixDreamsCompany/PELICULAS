@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | PhoenixDreamsTV
+http://ipeteve.com/REGIOFLIX180721/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/7/0/2/9/19207-1-esl-CO/2-Cineco-poster-480x670px.png", La Purga por siempre | PhoenixDreamsTV
 http://ipeteve.com/REGIOFLIX180721/The.forever.purge.2021.1080p-dual-lat-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36190-193973-20210429093602.jpg", Justicia Implacable | PhoenixDreamsTV
