@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos | PhoenixDreamsTV
+http://ipeteve.com/REGIOFLIX250821/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/-jKRbzhLTmrc/YQLlyfSu0MI/AAAAAAABdt8/C4kAMGx1C9409z3uhXc1j83sFr2VI5brACLcBGAsYHQ/w512-h640/image.png", Vivo | PhoenixDreamsTV
 http://ipeteve.com/REGIOFLIX250821/Vivo.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/04/16/24/5023543.jpg", Isla Negra | PhoenixDreamsTV
