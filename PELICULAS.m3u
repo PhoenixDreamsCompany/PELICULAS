@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos | PhoenixDreamsTV
 http://ipeteve.com/REGIOFLIX250821/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/-jKRbzhLTmrc/YQLlyfSu0MI/AAAAAAABdt8/C4kAMGx1C9409z3uhXc1j83sFr2VI5brACLcBGAsYHQ/w512-h640/image.png", Vivo | PhoenixDreamsTV
@@ -112,9 +111,9 @@ https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990 | PhoenixDreamsTV
 https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | SRREGIO.NET
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | PhoenixDreamsTV
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | SRREGIO.NET
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | PhoenixdreamsTV
 https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion | PhoenixDreamsTV  
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
