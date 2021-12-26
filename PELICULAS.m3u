@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cineycine.com/archivos/2019/12/no-time-to-die-poster-imax.jpg", FC | Phoenix'DreamsTV
+http://regioplay.xyz/php/SR_REGIO_411112_/bienvenido.al.mundo.franco.escamilla.php
+
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cineycine.com/archivos/2019/12/no-time-to-die-poster-imax.jpg", 007: Sin tiempo para morir | Phoenix'DreamsTV
 http://201.172.61.203:88/Peliculas/Sep%20Oct/007%20sin%20tiempo%20para%20morir.mp4
 
