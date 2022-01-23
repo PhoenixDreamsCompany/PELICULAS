@@ -1,13 +1,29 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | Phoenix´DreamsTV
+http://regioplay.xyz/611022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals | Phoenix´DreamsTV
+http://regioplay.xyz/611022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://kbimages1-a.akamaihd.net/84c452ca-9e34-49aa-9f0a-bdcb843207f3/1200/1200/False/hotel-transylvania-transformania-movie-novelization.jpg", Hotel Transylvania: Transformania | Phoenix´DreamsTV
+https://ia601502.us.archive.org/17/items/0t-31tr-4n-51lv-4n-142022/0t31tr4n51lv4n142022.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | Phoenix´DreamsTV
+https://ia801500.us.archive.org/0/items/m-4tr-1x-2021/M4tr1x2021.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | Phoenix´DreamsTV
+https://ia601504.us.archive.org/31/items/c4s42021/c4s42021.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg", Spider-Man: No Way Home | Phoenix´DreamsTV
 https://ia601409.us.archive.org/12/items/5p-1d-3rm-4n.-3/5p1d3rm4n.3.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2 | Phoenix´DreamsTV
 http://regioplay.xyz/611022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos | Phoenix´DreamsTV
