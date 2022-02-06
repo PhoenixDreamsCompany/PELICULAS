@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/20/16/12/1450650.jpg", Finch | Phoenix´DreamsTV
+https://ia904601.us.archive.org/33/items/1f-1nc-0h/1f1nc0h.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Resident_Evil_Bienvenidos_a_Raccoon_City-764554100-large.jpg", Resident Evil: Bienvenidos a Raccoon City | Phoenix´DreamsTV
+https://ia601405.us.archive.org/23/items/rp-189-pr/RP189PR.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | Phoenix´DreamsTV
 http://regioplay.xyz/611022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
@@ -30,8 +35,7 @@ http://regioplay.xyz/611022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 http://regioplay.xyz/611022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg", El diario de Greg | Phoenix´DreamsTV
 http://regioplay.xyz/611022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo | Phoenix´DreamsTV
-http://regioplay.xyz/php/SR_REGIO_511022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | Phoenix´DreamsTV
 http://regioplay.xyz/611022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | Phoenix´DreamsTV
