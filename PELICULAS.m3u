@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/12/no-mires-arriba-poster-sinopsis1.jpg", No Mires Arriba  | Phoenix'DreamsTV
+https://ia804601.us.archive.org/4/items/n0m1r3s-4rr1b42021/n0m1r3s-4rr1b42021.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/monstermania.jpg", Monstermanía  | Phoenix'DreamsTV
+https://ia601403.us.archive.org/26/items/m0n5t3rm4n142021/m0n5t3rm4n142021.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/20/16/12/1450650.jpg", Finch | Phoenix´DreamsTV
 https://ia904601.us.archive.org/33/items/1f-1nc-0h/1f1nc0h.mp4
 
