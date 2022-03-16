@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022 | Phoenix´DreamsTV
-http://regioplay.xyz/522022/Scream5Grita.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.aullidos.com/imagenes/caratulas/matanza-texas-2022.jpg", Masacre en Texas 2022 | Phoenix´DreamsTV
-http://regioplay.xyz/php/SR_REGIO_703022_/masacreentexas2022.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://comoacaba.com/wp-content/uploads/2022/02/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg", Venganza a Golpes | Phoenix´DreamsTV
-http://regioplay.xyz/php/SR_REGIO_703022_/golpesdevenganza.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://adeymovies.com/wp-content/uploads/2021/05/Riverdance-The-Animated-Adventure-2021.jpg", Riverdance | Phoenix´DreamsTV
-http://regioplay.xyz/php/SR_REGIO_703022_/riverdance.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2022/02/KIMI-poster.jpg?fit=696%2C1031&ssl=1", Kimi | Phoenix´DreamsTV
-http://regioplay.xyz/php/SR_REGIO_703022_/kimi.php?f=.mp4
-
-
-
-
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/12/no-mires-arriba-poster-sinopsis1.jpg", No Mires Arriba  | Phoenix'DreamsTV
 https://ia804601.us.archive.org/4/items/n0m1r3s-4rr1b42021/n0m1r3s-4rr1b42021.mp4
 
@@ -25,14 +11,6 @@ https://ia904601.us.archive.org/33/items/1f-1nc-0h/1f1nc0h.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Resident_Evil_Bienvenidos_a_Raccoon_City-764554100-large.jpg", Resident Evil: Bienvenidos a Raccoon City | Phoenix´DreamsTV
 https://ia601405.us.archive.org/23/items/rp-189-pr/RP189PR.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
-
-
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://kbimages1-a.akamaihd.net/84c452ca-9e34-49aa-9f0a-bdcb843207f3/1200/1200/False/hotel-transylvania-transformania-movie-novelization.jpg", Hotel Transylvania: Transformania | Phoenix´DreamsTV
 https://ia601502.us.archive.org/17/items/0t-31tr-4n-51lv-4n-142022/0t31tr4n51lv4n142022.mp4
@@ -47,68 +25,6 @@ https://ia601504.us.archive.org/31/items/c4s42021/c4s42021.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg", Spider-Man: No Way Home | Phoenix´DreamsTV
 https://ia601409.us.archive.org/12/items/5p-1d-3rm-4n.-3/5p1d3rm4n.3.mp4
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2 | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos | Phoenix´DreamsTV
-http://regioplay.xyz/611022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg", El diario de Greg | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi | Phoenix´DreamsTV
-http://regioplay.xyz/611022/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", No body sleeps in the woods tonight | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/n71yzMVi0V9grBF35VLn-klQSVT2szaY0GuiyQrnwzgcQkCnfugRP1eTpyO8-MmGEkKvIY5itNEZroG2huaD5WuBsSv1Ui7HdymIco9uCw", Polaroid | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://allpeliculas.ac/wp-content/uploads/2021/10/0815e542ae8eccf0e97d2df02e023f0bbTlQchCU05xJZyn4Va8gHkTeayu.jpg", Una momia en Halloween | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018 | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01/halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021 | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl=1", Free Guy | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800%2C1187&ssl=1", La calle del terror P1 | Phoenix´DreamsTV
-http://regioplay.xyz/611022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1", No respires 2 | Phoenix´DreamsTV
-http://regioplay.xyz/611022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-mmed.jpg", You´re not alone | Phoenix´DreamsTV
-http://regioplay.xyz/611022/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | Phoenix´DreamsTV
-http://regioplay.xyz/611022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era | Phoenix´DreamsTV
-http://regioplay.xyz/611022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO | Phoenix´DreamsTV
-http://regioplay.xyz/611022/coco.mkv
-
-
-
-
-
-
-
-
-
-
-***PELÍCULAS***
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-x4YIdNmIvgI/XnjfUMvmCfI/AAAAAAAAAdg/pQ5GsCQ8PZgNjphQ1Gz8etwHU71c2SpZQCK4BGAYYCw/s1600/Liga_de_la_Justicia-345136993-large.jpg", Liga de la Justicia | Phoenix'DreamsTV
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Zack%20Snyder's%20Justice%20League.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w185/q3EG1UUwcwMJEcuXSgfzzLhRUZZ.jpg", Cenicienta 2021 | Phoenix'DreamsTV
-http://201.172.61.203:88/Peliculas/jul%20agos/Cenicienta%20(2021.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-xFW5MwvS30w/XxhlfNtZRHI/AAAAAAAAICY/a96eYyHdng00q6PkMGjbR4MAEzFxTdDagCLcBGAsYHQ/s500/BLACKPANTER.jpg", Black Panther | Phoenix'DreamsTV
 https://ia802800.us.archive.org/30/items/Seminario8/Seminario2.mp4
@@ -186,10 +102,7 @@ https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
 https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro | Phoenix´DreamsTV
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO | Phoenix´DreamsTV
-https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990 | Phoenix´DreamsTV
-https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | Phoenix´DreamsTV
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | Phoenix´DreamsTV
@@ -198,8 +111,7 @@ https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | Phoenix´DreamsTV  
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO | Phoenix´DreamsTV  
-https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://elcafetindelas5.files.wordpress.com/2013/03/resena-nosotros-los-nobles_121446_28022-670x503.jpg", Nosotros Los Nobles | Phoenix´DreamsTV  
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox | Phoenix´DreamsTV  
@@ -215,3 +127,88 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | Phoenix´DreamsTV  
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+
+
+
+
+
+
+
+--REGIOFLIX--
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021 | Phoenix´DreamsTV
+http://regioplay.xyz/522022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022 | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Scream5Grita.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.aullidos.com/imagenes/caratulas/matanza-texas-2022.jpg", Masacre en Texas 2022 | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/masacreentexas2022.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://comoacaba.com/wp-content/uploads/2022/02/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg", Venganza a Golpes | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/golpesdevenganza.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://adeymovies.com/wp-content/uploads/2021/05/Riverdance-The-Animated-Adventure-2021.jpg", Riverdance | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/riverdance.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2022/02/KIMI-poster.jpg?fit=696%2C1031&ssl=1", Kimi | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/kimi.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/1400/1460/003.jpg", Volver al futuro | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/volver.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/51URcEemjTL._AC_.jpg", Volver al futuro 2 | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/volver2.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al futuro 3 | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/volver3.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/91/f7/f1/91f7f1bfc1232cb4b192c2a45a3c8015.jpg", Sangre por Sangre | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/sangrexsangre.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/matrix2021.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2021/06/hotel_transylvania_transformania.jpg", Hotel Transylvania Transformania | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/hoteltransylvaniatransformania.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2 | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos | Phoenix´DreamsTV
+http://regioplay.xyz/522022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg", El diario de Greg | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_513022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi | Phoenix´DreamsTV
+http://regioplay.xyz/522022/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", No body sleeps in the woods tonight | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/n71yzMVi0V9grBF35VLn-klQSVT2szaY0GuiyQrnwzgcQkCnfugRP1eTpyO8-MmGEkKvIY5itNEZroG2huaD5WuBsSv1Ui7HdymIco9uCw", Polaroid | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://allpeliculas.ac/wp-content/uploads/2021/10/0815e542ae8eccf0e97d2df02e023f0bbTlQchCU05xJZyn4Va8gHkTeayu.jpg", Una momia en Halloween | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018 | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01/halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021 | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl=1", Free Guy | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800%2C1187&ssl=1", La calle del terror P1 | Phoenix´DreamsTV
+http://regioplay.xyz/522022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1", No respires 2 | Phoenix´DreamsTV
+http://regioplay.xyz/522022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-mmed.jpg", You´re not alone | Phoenix´DreamsTV
+http://regioplay.xyz/522022/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | Phoenix´DreamsTV
+http://regioplay.xyz/522022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era | Phoenix´DreamsTV
+http://regioplay.xyz/522022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO | Phoenix´DreamsTV
+http://regioplay.xyz/522022/coco.mkv
