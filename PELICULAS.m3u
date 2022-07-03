@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://rechismes.com/wp-content/uploads/2022/02/Jurassic-World-Dominio-1.jpg", Jurassic World: Dominion | Phoenix'DreamsTV
+https://ia801504.us.archive.org/29/items/jur-4551c-w-0r-1d/Jur_4551c_W0r1d.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Hopper_el_polloliebre-899342736-large.jpg", Chickenhare | Phoenix'DreamsTV
+https://ia601407.us.archive.org/17/items/ch-1-ck-3-nh-4r-3/Ch1_ck3%20nh4r3.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://mediacdn.aent-m.com/prod-img-misc/500/4/4070774-2823653.jpg", Iron Cross: The Road To Normandy | Phoenix'DreamsTV
 https://ia801500.us.archive.org/2/items/1r-0n-cr-055/1r0n_Cr%20055.mp4
