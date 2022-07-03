@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.unpluggednews.com.mx/wp-content/uploads/2022/02/d35711d39cc4-unch-6-banner-movil.jpg", UNCHARTED | Phoenix'DreamsTV
+http://regioplay.xyz/825022/Uncharted.2022.SRREGIO.NET.mkv
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://rechismes.com/wp-content/uploads/2022/02/Jurassic-World-Dominio-1.jpg", Jurassic World: Dominion | Phoenix'DreamsTV
 https://ia801504.us.archive.org/29/items/jur-4551c-w-0r-1d/Jur_4551c_W0r1d.mp4
 
