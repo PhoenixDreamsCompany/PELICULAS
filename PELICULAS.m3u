@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/25/15/00/3011978.jpg", El Último Refugio | Phoenix'DreamsTV
+https://ia801500.us.archive.org/12/items/gr-33-nl-4-nd/Gr33_nl4%20nd.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Minions_El_origen_de_Gru-608394212-large.jpg", MINIONS: El Origen de Gru | Phoenix'DreamsTV
+https://ia902505.us.archive.org/11/items/m-1n-1-0n-5/M1n_1%200n5.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Moonfall-196397735-large.jpg", Moonfall | Phoenix'DreamsTV
 https://ia802505.us.archive.org/7/items/m-0-0n-f-4l-l/M0%200n%20f4lL.mp4
