@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Infinite_Storm-194351163-large.jpg", Infinite Strom | Phoenix'DreamsTV
+https://ia801507.us.archive.org/7/items/1nf-1n-1t-3.5t-0rm/1nf1n1t3.5t0rm.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-HmxMUfvhBys/X8ttOEiZu3I/AAAAAAAAGS0/3QPvdBzMbawRLLtm4xnkJD9-AiD4EJX0wCLcBGAsYHQ/s1401/The%2BCall%2BPoster.jpg", The Call | Phoenix'DreamsTV
+https://ia801405.us.archive.org/19/items/th-3.c-4-l-l/Th3.c4_lL.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://phantom-marca.unidadeditorial.es/b357c8a454724e126c96b9c2d058d1a7/resize/1320/f/jpg/assets/multimedia/imagenes/2022/07/05/16569736469373.jpg", Dradon Ball Super Hero | Phoenix'DreamsTV
+https://ia801406.us.archive.org/15/items/dbs-5up-3r-h/DBS%205up3r_H.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Spiderhead-162179043-large.jpg", SpiderHead | Phoenix'DreamsTV
 https://ia601509.us.archive.org/12/items/l-4-c-4b-3z-4/l4%20c4b3z4.mp4
 
-
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/81pD5C8ucdL._AC_SY445_.jpg", Gigantes de Acero | Phoenix'DreamsTV
 https://ia801401.us.archive.org/11/items/g1_G4.4C3r0/g1_G4.4C3r0.mp4
-
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg", House of the Dragon | Phoenix'DreamsTV
 https://ia601405.us.archive.org/25/items/h-0u-53-dr-4g-0/H0u53_Dr4g0.mp4
