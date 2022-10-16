@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/28/16/58/4634287.jpg", The Wretched | Phoenix'DreamsTV
+https://ia801405.us.archive.org/12/items/m4t_0_m0R/m4t_0_m0R.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://flxt.tmsimg.com/assets/p17534874_p_v8_ab.jpg", The Wretched | Phoenix'DreamsTV
+https://ia801501.us.archive.org/19/items/th-3-wr-3-tch-3-d/Th3_Wr3_tch3-d.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/C_sate_conmigo-852565093-large.jpg", Cásate Conmigo | Phoenix'DreamsTV
 https://ia802508.us.archive.org/26/items/c-454-t-3-c-0nm-1-g-0/C454%20t3%20c0nm1%20g0.ia.mp4
 
