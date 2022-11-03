@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/69/99/95/20350772.jpg", La Huérfana | Phoenix'DreamsTV
+https://ia801504.us.archive.org/6/items/l-4-hu-3-rf-4n/L4%20Hu3_rf4n.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn1.clickthecity.com/images/movies/poster/600/18392.jpg", Halloween Ends | Phoenix'DreamsTV
+https://ia801409.us.archive.org/28/items/h-4-ll-0w-33n.-3nds/H4_ll0w33n.3nds.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/tn3GWm0Erehkpur8PUuYWxGpul5.jpg", Monster High | Phoenix'DreamsTV
+https://ia801506.us.archive.org/26/items/m-0-h-1gh/M0_%20H1gh%20.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Enemigos_p_blicos-370872430-large.jpg", Enemigos Públicos | Phoenix'DreamsTV
 https://ia601508.us.archive.org/1/items/3n-3m-1g-05-p/3n3m1g05_p.mp4
