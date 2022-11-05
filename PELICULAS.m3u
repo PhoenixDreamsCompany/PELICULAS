@@ -1,4 +1,13 @@
 #EXTM3U
+
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/07/16/48/1142280.jpg", Black Adam | Phoenix'DreamsTV
+https://es.web.img2.acsta.net/pictures/22/10/07/16/48/1142280.jpg
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/39790-385178-20220729030046.jpg", Soy Tu Fan| Phoenix'DreamsTV
+https://ia804702.us.archive.org/30/items/s-0-y-tuf-4/S0_yTuf4.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/69/99/95/20350772.jpg", La Huérfana | Phoenix'DreamsTV
 https://ia801504.us.archive.org/6/items/l-4-hu-3-rf-4n/L4%20Hu3_rf4n.mp4
 
