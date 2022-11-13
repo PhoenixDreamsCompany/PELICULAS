@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Aguas_profundas-790981437-large.jpg", Aguas Profundas | Phoenix'DreamsTV
+https://ia601509.us.archive.org/6/items/a-gu-45-pr-0/A_gu45-pr0.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNjNmE4YTktMTZiNS00YTQ0LWExY2YtZTU2MGNiNzBiMzI5XkEyXkFqcGdeQXVyMTA0OTI1NDM2._V1_.jpg", Prey For The Devil | Phoenix'DreamsTV
+https://ia804703.us.archive.org/14/items/pr3y.f0r.th3.d3v1l/pr3y.f0r.th3.d3v1l.mp4
 
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/07/16/48/1142280.jpg", Black Adam | Phoenix'DreamsTV
