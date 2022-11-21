@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/39753-784619-20220722063400.jpg", Vértigo | Phoenix'DreamsTV
+https://polimor.club/movies/vertigo.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Pig-639839972-large.jpg", Pig | Phoenix'DreamsTV
+https://www.colegiofederaldeperitos.org/stuff/pig.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Aguas_profundas-790981437-large.jpg", Aguas Profundas | Phoenix'DreamsTV
 https://ia601509.us.archive.org/6/items/a-gu-45-pr-0/A_gu45-pr0.mp4
 
