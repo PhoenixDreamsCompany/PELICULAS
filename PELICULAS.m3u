@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/210/008/21000806_20130423161433207.jpg", El Llanero Solitario | Phoenix'DreamsTV
+https://ia904700.us.archive.org/22/items/3l-l-l-4n-3r-0-50lit-4/3l_lL4n3r0-50lit4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/16/20/40/1019783.jpg", Papás por Encargo Cap.1 | Phoenix'DreamsTV
+https://ia804709.us.archive.org/2/items/p-4p-45-x-3nc-4-01/P4p45-x-3nc4_01.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/16/20/40/1019783.jpg", Papás por Encargo Cap.2 | Phoenix'DreamsTV
+https://ia601509.us.archive.org/29/items/p-4p-45-x-3nc-4-02/p-4p-45-x-3nc-4-02.ia.mp4
+
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/39753-784619-20220722063400.jpg", Vértigo | Phoenix'DreamsTV
 https://polimor.club/movies/vertigo.mp4
 
