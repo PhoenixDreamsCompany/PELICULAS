@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://media.filmelier.com/tit/8CD4aX/poster/pasado-violento_jGptGVU.jpeg", Pasado Violento | Phoenix'DreamsTV
+https://ia801409.us.archive.org/6/items/p454_d0v10l3n-T0/p454_d0v10l3n-T0.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/The_Pirate_Fairy_poster.jpg", Tinkerbell Pirate Fairy  | Phoenix'DreamsTV
+https://ia804706.us.archive.org/23/items/t-1nk-3r.-b-3ll/T1nk3r.B3ll.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/210/008/21000806_20130423161433207.jpg", El Llanero Solitario | Phoenix'DreamsTV
 https://ia904700.us.archive.org/22/items/3l-l-l-4n-3r-0-50lit-4/3l_lL4n3r0-50lit4.mp4
 
@@ -9,6 +15,11 @@ https://ia804709.us.archive.org/2/items/p-4p-45-x-3nc-4-01/P4p45-x-3nc4_01.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/16/20/40/1019783.jpg", Papás por Encargo Cap.2 | Phoenix'DreamsTV
 https://ia601509.us.archive.org/29/items/p-4p-45-x-3nc-4-02/p-4p-45-x-3nc-4-02.ia.mp4
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/16/20/40/1019783.jpg", Papás por Encargo Cap.3 | Phoenix'DreamsTV
+https://ia904700.us.archive.org/16/items/p-4p-45-x-3nc-4-03/p-4p-45-x-3nc-4-03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/16/20/40/1019783.jpg", Papás por Encargo Cap.4 | Phoenix'DreamsTV
+https://ia601405.us.archive.org/4/items/p-4p-45-x-3nc-4-04/p-4p-45-x-3nc-4-04.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/39753-784619-20220722063400.jpg", Vértigo | Phoenix'DreamsTV
 https://polimor.club/movies/vertigo.mp4
