@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cine.com/media/noticias/2022/05/202205011661023.jpg", AVATAR 2 | Phoenix'DreamsTV
+https://ia804706.us.archive.org/27/items/4v-a-t-4-r/4v_aT4-r.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/M3GAN-771464242-large.jpg", MEGAN | Phoenix'DreamsTV
+https://ia804704.us.archive.org/29/items/m-3-g-4-n/M_3G-4N.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://media.filmelier.com/tit/8CD4aX/poster/pasado-violento_jGptGVU.jpeg", Pasado Violento | Phoenix'DreamsTV
 https://ia801409.us.archive.org/6/items/p454_d0v10l3n-T0/p454_d0v10l3n-T0.mp4
 
