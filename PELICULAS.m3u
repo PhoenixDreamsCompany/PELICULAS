@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Una_boda_explosiva-157709145-large.jpg", Una Boda Explosiva | Phoenix'DreamsTV
+https://ia804706.us.archive.org/13/items/b0d_45-pl0M0/b0d_45-pl0M0.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/M_rame-350956231-mmed.jpg", Mírame | Phoenix'DreamsTV
+https://ia804700.us.archive.org/13/items/m_1r4-m3/m_1r4-m3.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cine.com/media/noticias/2022/05/202205011661023.jpg", AVATAR 2 | Phoenix'DreamsTV
 https://ia804706.us.archive.org/27/items/4v-a-t-4-r/4v_aT4-r.mp4
 
